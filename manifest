@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.2
+apiversion: 2
+description: Dropbox Sync SDK for Titanium Mobile
+author: Ruben Fonseca
+license: MIT
+copyright: Copyright (c) 2013 by Rúben Fonseca
+
+
+# these should not be edited
+name: dropboxsync
+moduleid: com.0x82.dropboxsync
+guid: 9e972c57-fe1b-4a38-bac9-4cbe2e2cb22e
+platform: iphone
+minsdk: 2.1.4.GA

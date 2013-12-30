@@ -1,0 +1,9 @@
+tmp
+bin
+build
+*.zip
+marketplace
+Rakefile
+app
+*.xcuserdatad
+.DS_Store
